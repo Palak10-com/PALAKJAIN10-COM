@@ -1,7 +1,7 @@
 # Hi, I'm Palak Jain 👋
 ### Data Analyst | Business Analyst | BI Analyst
 
-I turn raw data into stories that actually make sense. Currently building my portfolio with **Power BI**, **Excel**, and **SQL** — one dashboard at a time.
+I turn raw data into stories that actually make sense. Currently building my portfolio with **Power BI**, **Excel**, and **SQL**.
 
 ---
 
