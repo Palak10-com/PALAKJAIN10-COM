@@ -1,7 +1,7 @@
 
-### 📊 Business Analyst Portfolio - Palak Jain
+# 📊 Business Analyst Portfolio - Palak Jain
 
-I turn raw data into stories that actually make sense. Currently building my portfolio with **Power BI**, **Excel**, and **SQL**.
+Welcome to my Business Analyst Portfolio, showcasing practical business analysis case studies focused on business process improvement, operational efficiency, requirements analysis, and data-driven decision-making.
 
 ---
 
@@ -15,7 +15,7 @@ I turn raw data into stories that actually make sense. Currently building my por
 
 ---
 
-👤 About Me
+## 👤 About Me
 
 I am a Business Analyst focused on developing practical skills in business process optimization, problem-solving, and data analysis.
 
@@ -23,21 +23,84 @@ My work involves analyzing business challenges, documenting requirements, identi
 
 Through my case studies and projects, I am building hands-on experience in:
 
-Business requirements analysis and documentation
+- Business requirements analysis and documentation
 
-As-Is and To-Be process mapping
+- As-Is and To-Be process mapping
 
-Root cause analysis and problem-solving
+- Root cause analysis and problem-solving
 
-Stakeholder analysis and business process improvement
+- Stakeholder analysis and business process improvement
 
-Data analysis using SQL and Excel
+- Data analysis using SQL and Excel
 
-Business intelligence and dashboard development using Power BI
-
+- Business intelligence and dashboard development using Power BI
 
 ---
 
+## 🧠 Core Skills & Tools
+
+### Business Analysis
+
+- Business Problem Identification
+
+- Requirements Gathering & Analysis
+
+- Stakeholder Analysis
+
+- Business Requirements Documentation
+
+- Process Mapping and Workflow Analysis
+
+- Gap Analysis
+
+- Root Cause Analysis
+
+- KPI Identification and Measurement
+
+- Process Improvement Recommendations
+
+### Process Management
+
+- As-Is and To-Be Process Modeling
+
+- Recruitment Process Optimization
+
+- Business Process Flowcharts
+
+- Fishbone Diagram (Ishikawa)
+
+- 5 Whys Analysis
+
+- Process Standardization
+
+- Operational Efficiency Improvement
+
+### Data Analysis & Business Intelligence
+
+**SQL Server:** Joins, CTEs, Subqueries, Window Functions
+
+**Microsoft Excel:** Data Analysis, PivotTables, Lookup Functions, Reporting
+
+**Power BI:** Interactive Dashboards, Data Modeling, DAX
+
+KPI Tracking and Performance Reporting
+
+### Tools
+
+- Microsoft Excel
+
+- Microsoft Power BI
+
+- SQL Server
+
+- Lucidchart
+
+- GitHub
+
+- Canva
+
+  ---
+  
 ## 📁 Featured projects
 
 | Project | Tools | About |
@@ -59,5 +122,4 @@ Business intelligence and dashboard development using Power BI
 
 ---
 
-> ✨ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
-> Thank you for visiting my Business Analyst Portfolio!
+### Thank you for visiting my Business Analyst Portfolio!
